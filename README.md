@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Nico</h1>
-<h3 align="center">Semisenior Full-stack developer!</h3>
+<h3 align="center">Semi Senior Full-stack developer!</h3>
 
 - 🔭 Actualmente trabajo en **Servicios Computables**
 
