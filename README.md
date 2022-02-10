@@ -1,21 +1,29 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Nico 😀</h1>
 <h3 align="center">Semi Senior Full-stack developer! </h3>	
 
+<hr>
+
+Comencé mi carrera como programador en el 2018, con PHP y Javascript. Los primeros frameworks que usé fueron Symnfony y Angular JS, migrando después a Angular 8. </br>
+Cuando tuve la oportunidad, comencé a trabajar con Laravel y React. </br>
+Aprendí por mi cuenta haciendo proyectos propios Ionic 3 y Vue Js.
+
+<hr>
+
 - 💻 Actualmente trabajo en **Servicios Computables**
 
 - 🌱 En constante aprendizaje con **React y Laravel**
 
 - 🔥 Pero también hago proyectos propios como [Dielectronics](https://github.com/NIPIO/diElectronics) 🔥
 
-
-
+<hr>
+<hr>
 
 <h4 align="left">Frameworks</h4>
 <div style="display: flex; justify-content: space-between">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="laravel" width="140" height="40"/>   
   <img src="https://symfony.com/logos/symfony_white_02.png" alt="symfony" width="160" height="40"/>
   <img src="https://www.genit.com.ar/sites/default/files/2019-04/20170420_React_logo_wordmark.png" alt="react" width="125" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="vue" width="40" height="40"/>
+  <img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg" alt="vue" width="160" height="40"/>
 </div>
 
 
