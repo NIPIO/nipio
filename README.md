@@ -19,11 +19,9 @@ Aprendí por mi cuenta haciendo proyectos propios Ionic 3 y Vue Js.
 <hr>
 
 <h4 align="left">Frameworks</h4>
-<div style="display: flex; justify-content: space-between">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="laravel" width="140" height="40"/>   
-  <img src="https://symfony.com/logos/symfony_white_02.png" alt="symfony" width="160" height="40"/>
-  <img src="https://www.genit.com.ar/sites/default/files/2019-04/20170420_React_logo_wordmark.png" alt="react" width="125" height="40"/>
-  <img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue-logo-001.svg" alt="vue" width="160" height="40"/>
+<div align="center"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="laravel" width="140" height="40"/>   
+    <img src="https://www.genit.com.ar/sites/default/files/2019-04/20170420_React_logo_wordmark.png" alt="react" width="125" height="40"/>
 </div>
 
 
