@@ -11,7 +11,7 @@
 
 <h4 align="left">Lenguajes y herramientas:</h4>
 <div style="display: flex; justify-content: space-between">
-  <img src="![image](https://user-images.githubusercontent.com/42096873/153459086-862394a3-011e-4d06-9d57-db6faf165ac1.png)" alt="angular" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" alt="angular" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
