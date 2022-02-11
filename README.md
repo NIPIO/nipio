@@ -3,7 +3,7 @@
 
 <hr>
 
-Comencé mi carrera como programador en el 2018, con PHP y Javascript. Los primeros frameworks que usé fueron Symnfony y Angular JS, migrando después a Angular 8. </br>
+Comencé mi carrera como programador en el 2018, con PHP y Javascript. Los primeros frameworks que usé fueron Symfony y Angular JS, migrando después a Angular 8. </br>
 Cuando tuve la oportunidad, comencé a trabajar con Laravel y React. </br>
 Aprendí por mi cuenta haciendo proyectos propios Ionic 3 y Vue Js.
 
