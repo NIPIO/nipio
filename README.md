@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:10px;height:10px">, soy Nico 😀</h1>
+<h1 align="center">Hola, soy Nico 😀</h1>
 <h3 align="center">Semi Senior Full-stack developer! </h3>	
 
 <hr>
