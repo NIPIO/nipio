@@ -9,10 +9,8 @@ Aprendí por mi cuenta haciendo proyectos propios Ionic 3 y Vue Js.
 
 <hr>
 
-- 💻 Actualmente trabajo en **Servicios Computables**
-
 - 🌱 Laburo y aprendo con **React y Laravel**
-
+- 💻 Actualmente trabajo en **Servicios Computables**
 - 🔥 Pero también hago proyectos propios como [Dielectronics](https://github.com/NIPIO/diElectronics) 🔥
 
 <hr>
